@@ -127,8 +127,12 @@ As the only Business Analyst on the team, I acted as the **bridge between busine
 
 ## 📎 Artifacts & Diagrams
 
-- ![System Architecture Diagram](./SystemArchitecture.png)  
-- ![Workflow Diagram – Trade Lifecycle](./workflow-diagram.png)
+### 🗂 System Architecture Diagram  
+![System Architecture Diagram](./SystemArchitecture.png)
+
+### 🔄 Workflow Diagrams  
+**Trade Lifecycle & Compliance Checks**  
+![Workflow Diagram](./workflow-diagram.png) 
 
 📄 *Additional Documents (Available upon request):*  
 - Functional Requirements Document (FRD)  
