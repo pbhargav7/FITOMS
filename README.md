@@ -5,6 +5,16 @@
 **👤 Role:** Senior Business Analyst  
 
 ---
+## 📎 Artifacts & Diagrams
+
+### 🗂 System Architecture Diagram  
+![System Architecture Diagram](./SystemArchitecture.png)
+
+### 🔄 Workflow Diagrams  
+**Trade Lifecycle & Compliance Checks**  
+![Workflow Diagram](./workflow-diagram.png) 
+
+---
 
 ## 🚀 Project Summary
 
