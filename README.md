@@ -72,7 +72,7 @@ As the only Business Analyst on the team, I acted as the **bridge between busine
 | Market Data Feed       | Bloomberg API                             |
 | Compliance Integration | REST-based 3rd-party API                  |
 | Querying               | SQL                                       |
-| Methodology            | RUP (Rational Unified Process)            |
+| Methodology            | Hybrid            |
 
 ---
 
