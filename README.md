@@ -1,18 +1,8 @@
 # 🏦 Trade Order Management System Enhancement – Fixed Income, Equities & Derivatives
 
-**📅 Duration:** May 2024 – Present  
+**📅 Duration:** Oct 2024 – Present  
 **🏢 Organization:** STP Investment Services, California  
 **👤 Role:** Senior Business Analyst  
-
----
-## 📎 Artifacts & Diagrams
-
-### 🗂 System Architecture Diagram  
-![System Architecture Diagram](./SystemArchitecture.png)
-
-### 🔄 Workflow Diagrams  
-**Trade Lifecycle & Compliance Checks**  
-![Workflow Diagram](./workflow-diagram.png) 
 
 ---
 
@@ -126,12 +116,12 @@ As the only Business Analyst on the team, I acted as the **bridge between busine
 ## 👥 Team Structure
 
 - 👤 1 Sr. Business Analyst *(Myself)*  
-- 👨‍💻 2 Backend/API Developers  
-- 🧠 1 Data Modeler  
-- 🧪 2 QA Engineers  
+- 👨‍💻 2 Backend/API Developers    
+- 🧪 2 QA Engineers
+- 🧠 1 Product Owner 
 - 🧭 1 Scrum Master  
 
-**Reporting to:** Project Manager & Product Owner
+**Reporting to:** Product Owner
 
 ---
 
@@ -143,6 +133,8 @@ As the only Business Analyst on the team, I acted as the **bridge between busine
 ### 🔄 Workflow Diagrams  
 **Trade Lifecycle & Compliance Checks**  
 ![Workflow Diagram](./workflow-diagram.png) 
+
+---
 
 📄 *Additional Documents (Available upon request):*  
 - Functional Requirements Document (FRD)  
