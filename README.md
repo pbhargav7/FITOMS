@@ -1,7 +1,7 @@
 # 🏦 Trade Order Management System Enhancement – Fixed Income, Equities & Derivatives
 
 **📅 Duration:** Oct 2024 – Present  
-**🏢 Organization:** STP Investment Services, California  
+**🏢 Organization:** TD, Mount Laurel, NJ
 **👤 Role:** Senior Business Analyst  
 
 ---
@@ -154,7 +154,6 @@ This project demonstrates my experience in modernizing critical financial system
 Always open to connecting! Whether it's discussing trends, exploring collaborations, or just saying hello — feel free to reach out! 😊
 
 - 🌱  Currently enhancing my engineering skills  
-- 🌍  Based in Pennsylvania, United States   
 - ✉️  Email me at [bhargavptl77@gmail.com](mailto:bhargavptl77@gmail.com)  
 - 📫  Connect with me on [LinkedIn](https://www.linkedin.com/in/bhargavpatel07/)    
-- 🤝  Open to collaborating on exciting projects as a **Business Systems Analyst**
+- 🤝  Open to collaborating on exciting projects as a **Business System Analyst**
