@@ -1,7 +1,7 @@
 # 🏦 Trade Order Management System Enhancement – Fixed Income, Equities & Derivatives
 
 **📅 Duration:** Oct 2024 – Present  
-**🏢 Organization:** TD, Mount Laurel, NJ
+**🏢 Organization:** TD, Mount Laurel, NJ 
 **👤 Role:** Senior Business Analyst  
 
 ---
