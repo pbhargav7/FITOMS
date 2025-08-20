@@ -154,6 +154,6 @@ This project demonstrates my experience in modernizing critical financial system
 Always open to connecting! Whether it's discussing trends, exploring collaborations, or just saying hello — feel free to reach out! 😊
 
 - 🌱  Currently enhancing my engineering skills  
-- ✉️  Email me at [bhargavptl77@gmail.com](mailto:bhargavptl77@gmail.com)  
+- ✉️  Email me at [bhargavpatel8525@gmail.com](mailto:bhargavpatel8525@gmail.com)  
 - 📫  Connect with me on [LinkedIn](https://www.linkedin.com/in/bhargavpatel07/)    
 - 🤝  Open to collaborating on exciting projects as a **Business System Analyst**
